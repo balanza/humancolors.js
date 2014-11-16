@@ -1,0 +1,23 @@
+{
+  "name": "humancolors.js",
+  "version": "1.0.3",
+  "description": "Simple CommonJS module that lists human-readable colors, with both HEX and RAL value",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:balanza/humancolors.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balanza/colors.js/issues"
+  },
+  "homepage": "https://github.com/balanza/humancolors.js"
+}
